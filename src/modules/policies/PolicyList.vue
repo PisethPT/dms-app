@@ -27,5 +27,11 @@ const policies = ref([
   { id: 'POL-02', title: 'Force Screen Lock Timeout (5 min)', enforced: true },
   { id: 'POL-03', title: 'Restrict Sideloading APKs', enforced: false },
   { id: 'POL-04', title: 'Enable Device Encryption', enforced: true },
+  { id: 'POL-05', title: 'Disable Camera Access', enforced: false },
+  { id: 'POL-06', title: 'Restrict App Installations', enforced: true },
+  { id: 'POL-07', title: 'Enforce Strong Password Policy', enforced: true },
+  { id: 'POL-08', title: 'Disable Bluetooth Access', enforced: false },
+  { id: 'POL-09', title: 'Enable Remote Wipe Capability', enforced: true },
+  { id: 'POL-10', title: 'Restrict Location Services', enforced: false },
 ])
 </script>
