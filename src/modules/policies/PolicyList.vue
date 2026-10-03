@@ -26,5 +26,6 @@ const policies = ref([
   { id: 'POL-01', title: 'Disable USB Storage Access', enforced: true },
   { id: 'POL-02', title: 'Force Screen Lock Timeout (5 min)', enforced: true },
   { id: 'POL-03', title: 'Restrict Sideloading APKs', enforced: false },
+  { id: 'POL-04', title: 'Enable Device Encryption', enforced: true },
 ])
 </script>
