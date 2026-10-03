@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "Device Management System"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "devices": "Devices",
+    "monitoring": "Monitoring",
+    "commands": "Commands",
+    "configurations": "Configurations",
+    "policies": "Policies",
+    "applications": "Applications",
+    "users": "Users",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password"
+  }
+}
